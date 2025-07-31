@@ -13,27 +13,27 @@ A  efficient Todo List application built using React that helps users manage dai
 - 💾 Data saved automatically using local storage
 - 🎨 Clean and responsive UI
 
-## 🚀 Technologies Used
+# 🚀 Technologies Used
 
 - ⚛️ React.js (Functional Components, Hooks)
 - 🖼️ HTML5 & CSS3
 - 🧠 JavaScript (ES6+)
 - 🗂️ LocalStorage (for data persistence)
 
-## 🔗 Live Demo
+# 🔗 Live Demo
 
 [👉 Click here to open Live App](https://phenomenal-cactus-0a9cb2.netlify.app/)
 
 > (Replace the above link with your actual deployed URL)
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 Bablu Kumar
 - 🎓 B.Tech in Electronics and Communication Engineering  
 - 💼 Passionate about full stack development and web-based software solutions  
 - 🌐 [GitHub Profile](https://github.com/bablukumar12345)
 
-## 🛠️ How to Run Locally
+# 🛠️ How to Run Locally
 
 Clone the repository and install dependencies:
 
